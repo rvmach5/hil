@@ -46,12 +46,7 @@ class Sensor_Device:
     def get_mode():
         # 
 
-        
-
-
-
 class Pin:
-
 
     def Pin():
         # constructor
@@ -70,6 +65,7 @@ class Mux:
     self.pin4_output
     def Mux():
         # constructor
+        
 
 class HIL_Tests:
     def HIL_Tests():
